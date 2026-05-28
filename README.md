@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**janaSalehs/janaSalehs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jana+%E2%98%AF;Student+%7C+Builder+%7C+Curious+Mind;Always+learning+something+new..." alt="Typing SVG" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+```bash
+{
+  "name"      : "Jana",
+  "status"    : "🎓 Student & self-taught dev",
+  "currently" : "Building cool stuff and breaking things",
+  "goal"      : "Turn ideas into real, working projects"
+}
+```
+
+
+
+
+
+
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+</div>
