@@ -4,10 +4,10 @@
 
 ```bash
 {
-  "name"      : "Jana",
-  "status"    : "🎓 Student & self-taught dev",
-  "currently" : "Building cool stuff and breaking things",
-  "goal"      : "Turn ideas into real working secured projects"
+  "Name"      : "Jana",
+  "Status"    : "🎓 Student & self-taught dev",
+  "Currently" : "Building cool stuff and breaking things",
+  "Goal"      : "Turn ideas into real working secured projects"
 }
 ```
 
