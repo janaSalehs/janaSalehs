@@ -2,14 +2,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jana+%E2%98%AF;Student+%7C+Builder+%7C+Curious+Mind;Always+learning+something+new..." alt="Typing SVG" />
 
-```bash
-{
-  "Name"      : "Jana",
-  "Status"    : "🎓 Student & self-taught dev",
-  "Currently" : "Building cool stuff and breaking things",
-  "Goal"      : "Turn ideas into real working secured projects"
-}
-```
+## About Me
+
+- **Status:** Computer Science student
+- **Role:** Head of Cybersecurity, IEEE GUC Student Branch
+- **Currently:** Building projects and breaking them (ethically)
+- **Goal:** Turn ideas into real, working, secured projects
 
 *"First, solve the problem. Then, write the code."*
 
